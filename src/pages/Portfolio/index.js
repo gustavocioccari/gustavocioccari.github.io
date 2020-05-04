@@ -10,9 +10,9 @@ export default function Portfolio() {
     
     // npm run deploy
     //////////////////////////////////////CONFIGURATION: YOU SHOULD EDIT THESE CONSTANT VALUES
-    const username = "guipiveti";
-    const default_name = "Guilherme Piveti Filho"
-    const linkedinUrl = "https://www.linkedin.com/in/guilherme-piveti-filho/";
+    const username = "gustavocioccari";
+    const default_name = "Gustavo Belmonte Cioccari"
+    const linkedinUrl = "https://www.linkedin.com/in/gustavo-belmonte-cioccari/";
     //////////////////////////////////////CONFIGURATION: YOU SHOULD EDIT THESE CONSTANT VALUES
 
 
